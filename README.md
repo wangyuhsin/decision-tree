@@ -74,7 +74,7 @@ clf_score = clf_tree.score(X_test, y_test)  # X_test is the feature matrix, y_te
 ```
 
 ## Example
-Here is an example of how to use ClassifierTree621 with sample data and the comparison with scikit-learn `DecisionTreeClassifier`:
+Here is an example of how to use `ClassifierTree621` with sample data and the comparison with scikit-learn `DecisionTreeClassifier`:
 
 ```python
 from sklearn.datasets import load_iris
