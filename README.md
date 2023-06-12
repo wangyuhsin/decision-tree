@@ -4,7 +4,7 @@
 This repository contains a Python implementation of a decision tree algorithm. The decision tree is a popular machine learning algorithm used for both classification and regression tasks. This implementation provides classes for building decision trees for classification and regression purposes.
 
 ## Decision Tree Overview
-<img align="right" width=170px src="binary_tree.png" />
+<img align="right" width=200px src="binary_tree.png" />
 A decision tree is a hierarchical structure that makes predictions by recursively partitioning the input data based on a set of splitting rules. At each node of the tree, a decision is made based on the value of a specific feature. The tree branches out into multiple child nodes based on the possible feature values, leading to a series of decision nodes and leaf nodes.<br><br>
 
 The decision nodes compare feature values against a splitting threshold, while the leaf nodes represent the final predictions. In classification tasks, leaf nodes typically predict the most common class in the corresponding subset of data, while in regression tasks, leaf nodes predict the average value of the target variable.
