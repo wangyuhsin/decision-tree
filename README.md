@@ -126,10 +126,6 @@ The example performs a comparative evaluation between `ClassifierTree621` and th
 
 The accuracy scores for both models are very close, with both achieving an accuracy of 0.96 on average. It indicates that `ClassifierTree621` is able to learn and make predictions with a similar level of accuracy as the scikit-learn model.
 
-## Contributing
-
-Contributions to this repository are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
